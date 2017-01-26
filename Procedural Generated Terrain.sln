@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{2BFDCAFB-B9D8-D487-B358-1F004AC4A47B}") = "Procedural Generated Terrain", "Assembly-CSharp.csproj", "{6FC41608-0028-65F8-0781-A9C9E9C52485}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FC41608-0028-65F8-0781-A9C9E9C52485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FC41608-0028-65F8-0781-A9C9E9C52485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FC41608-0028-65F8-0781-A9C9E9C52485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FC41608-0028-65F8-0781-A9C9E9C52485}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\GenerateNoiseMap.cs">
+    <Files>
+      <File FileName="Assets\scripts\GenerateNoiseMap.cs" Line="6" Column="38" />
+      <File FileName="Assets\scripts\GenerateMap.cs" Line="14" Column="35" />
+      <File FileName="Assets\scripts\MapDisplay.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\MapGeneratorEditor.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
